@@ -1,0 +1,7 @@
+[SPEAKERSPRITE=NPC Guide][NAME=NPC Guide]Welcome to this dungeon!
+You can use arrow keys to move and can fight the monsters by using your mouse.
+Be careful though, make sure not to touch the monsters or you'll lose a heart!
+In this dungeon you will encounter green platforms, they must be activated by pushing the potted plants on them.
+If you encounter lava in the dungeon be careful and make sure not to touch it! 
+You'll have to go through a series of different challenges to make it through this dungeon!
+Good luck!

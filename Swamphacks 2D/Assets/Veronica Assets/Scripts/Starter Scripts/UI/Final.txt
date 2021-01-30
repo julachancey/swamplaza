@@ -1,0 +1,2 @@
+[SPEAKERSPRITE=NPC Guide][NAME=NPC Guide]Congradulations!
+You have successfully completed this dungeon! 
